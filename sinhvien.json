@@ -1,0 +1,32 @@
+[
+    {
+        "name":"tran",
+        "age":21,
+        "math":7,
+        "eng":7,
+        "dev":7,
+        "medium score":null,
+        "pass":null,
+        "contract":{"email":"tran@gmail.com","phone":"0934704662"}
+    },
+    {
+        "name":"tram",
+        "age":21,
+        "math":7,
+        "eng":7,
+        "dev":7,
+        "medium score":null,
+        "pass":null,
+        "contract":{"email":"tram@gmail.com","phone":"0934704662"}
+    },
+    {
+        "name":"trang",
+        "age":21,
+        "math":7,
+        "eng":7,
+        "dev":7,
+        "medium score":null,
+        "pass":null,
+        "contract":{"email":"trang@gmail.com","phone":"0934704662"}
+    }
+]
